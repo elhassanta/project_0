@@ -1,4 +1,6 @@
 #include "monty.h"
+/**this good
+*/
 int bfree(void **ptr)
 {
         if (ptr && *ptr)
